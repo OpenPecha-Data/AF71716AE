@@ -1,0 +1,19 @@
+segment_sources:
+  I00671F68:
+    type: origin_type
+    relation: translation
+    language: en
+  I51D45E39:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f70d2c0aa6da46c5a441ca07a3f0cb10:
+    I00671F68: bad40d12aa4c40aab8a92dce3c07ff99
+    I51D45E39: ad00876ec79f493a86f130434e6f1b69
+  abb12dd76c934256abd2a075f8972d2a:
+    I00671F68: 191d0fba088a43e486c9b7322749a89e
+    I51D45E39: ef698775c6f0489591f9b4dc95cd61e5
+  6533dd968a0b468aaaac6197f9929a3f:
+    I00671F68: 21a54a68dc5b40689f6493d837bc48fa
+    I51D45E39: 8943ef718bb14933be294f8b03e7ce00
